@@ -2320,14 +2320,11 @@ const quizData= [
                                                          },
                                                          correctAnswer: "d"
                                                        }
+
   
   
 ];
-const questions = [
-
-];
-
-console.log(questions);
+console.log(quizData.length)
 
 
 

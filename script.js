@@ -111,3 +111,4 @@ submitButton.addEventListener("click", checkAnswer);
 
 // Dastlabki savolni yuklash
 loadQuestion(currentQuestionIndex);
+
