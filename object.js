@@ -1,5 +1,116 @@
+
 const quizData= [
-    {
+        {
+          question: "Microsoft Excel dasturida yangi hujjat yaratilsa, unga qanday nom biriktiriladi?",
+          options: {
+            a: "Книга1",
+            b: "Презентация1",
+            c: "Документ1",
+            d: "Лист1"
+          },
+          correctAnswer: "a"
+        },
+        {
+          question: ".xls kengaytmaga ega bo’lgan faylni sichqonchaning chap tugmasi bilan ikki marta bosilsa nima sodir bo’ladi?",
+          options: {
+            a: "Microsoft Excel dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+            b: "Microsoft Word dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+            c: "Microsoft powerpoint dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi",
+            d: "Microsoft wordpad dasturi ishga tushiriladi va unga tanlangan hujjat yuklanadi"
+          },
+          correctAnswer: "a"
+        },
+        {
+          question: "Microsoft Excel dasturida hujjatni yopish uchun qanday amal bajariladi? To’g’ri javob variantini ko’rsating:",
+          options: {
+            a: "Файл\\Закрыть menyu amalini bajarish",
+            b: "Файл\\Выход menyu amalini bajarish",
+            c: "Закрыть tugmasini bosish",
+            d: "Файл\\Завершить menyu amalini bajarish"
+          },
+          correctAnswer: "a"
+        },
+        {
+          question: "Microsoft Excel dasturida Yaratilgan hujjatlar 'Ish kitobi' (rabochaya kniga) deb ataladi. Yangi hujjat Yaratish tartibi to’g’ri ko’rsatilgan variantni tanlang:",
+          options: {
+            a: "Файл\\Создать",
+            b: "Файл\\Новая книга",
+            c: "Вставка\\Новая книга",
+            d: "Файл\\Новый"
+          },
+          correctAnswer: "a"
+        },
+        {
+          question: "Microsoft Excel dasturida Yaratilgan ish kitobini saqlash mumkin bo’lgan to’g’ri variantni ko’rsating:",
+          options: {
+            a: "Файл\\Сохранить",
+            b: "Файл\\Отправить",
+            c: "Формат\\Сохранить",
+            d: "Правка\\Копировать"
+          },
+          correctAnswer: "a"
+        },
+        {
+          question: "Microsoft Excel dasturida ish kitobini ochish mumkin bo’lgan to’g’ri variantni ko’rsating:",
+          options: {
+            a: "Файл\\Открыть",
+            b: "Файл\\Открыть как",
+            c: "Формат\\Загрузить",
+            d: "Правка\\Загрузить"
+          },
+          correctAnswer: "a"
+        },
+        {
+          question: "Microsoft Excel dasturi ish kitobiga Yangi sahifani (list) qanday qo'shish mumkin?",
+          options: {
+            a: "Sahifa nomiga sichqoncha o’ng tugmasini bosing va paydo bo’lgan menyudan 'Вставить' amalini tanlang",
+            b: "Sahifa nomiga sichqoncha chap tugmasini ikki marta bosing va sahifa nomini kiriting",
+            c: "Sahifa nomiga sichqoncha chap tugmasini bosing va paydo bo’lgan menyudan 'Dobavit' amalini tanlang",
+            d: "Sahifa nomini tanlang va 'Pravka\\Вставить' menyu amalini bajaring"
+          },
+          correctAnswer: "a"
+        },
+        {
+          question: "Microsoft Excel dasturi ish kitobidagi sahifani (list) qanday o'chirish mumkin?",
+          options: {
+            a: "Sahifa yorlig'iga sichqoncha ung tugmasini bosib va kontekst menyusidan 'Udalit' amalini tanlash",
+            b: "Sahifa nomiga sichqoncha tugmasini bosish orqali uni belgilab va Dalete tugmasini bosish bilan",
+            c: "Sahifa nomiga sichqoncha tugmasini bosish orqali uni belgilab va Pravka\\Udalit' menyu amalini bajarish bilan",
+            d: "Sahifani belgilab va 'Файл\\Закрыть' menyu amalini bajarish bilan"
+          },
+          correctAnswer: "a"
+        },
+        {
+          question: "Microsoft Excel dasturida ish kitobi sahifalarini (list) qanday qilib tez qayta nomlash mumkin?",
+          options: {
+            a: "Sahifa nomiga sichqoncha chap tugmasini ikki marta bosing va sahifa yangi nomini kiriting",
+            b: "Sahifa nomiga sichqoncha o’ng tugmasini bosing, kontekst menyusidan 'Pereimenovat' amalini tanlang va sahifa yangi nomini kiriting",
+            c: "Sahifa nomiga sichqoncha chap tugmasini bosish orqali uni belgilang, 'Pravka\\Perinomenovat' menyu amalini bajaring va sahifa yangi nomini kiriting",
+            d: "Sahifa nomiga sichqoncha chap tugmasini bosish orqali uni belgilang, F2 tugmasini bosing va sahifa yangi nomini kiriting"
+          },
+          correctAnswer: "a"
+        },
+        {
+          question: "Microsoft Excel dasturida ish kitobi sahifalarini (list) qanday qilib ko’chirish yoki nusxa olish mumkin?",
+          options: {
+            a: "Sahifa nomiga sichqoncha ung tugmasini bosish va kontekst menyusidan 'Переместить\\Скопировать' amalini bajarish orqali",
+          b: "Sahifani tanlash va Uskunalar panelidan 'Kopirovat' va 'Вставить' tugmalarini bosish orqali",
+          c: "Sahifani tanlash va Uskunalar panelidan 'Vырeзaт' va 'Вставить' tugmalarini bosish orqali",
+          d: "Sahifani tanlash va 'Pravka\\Kopirovat', 'Pravka\\Вставить' menyu amallarini bajarish orqali"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Microsoft Excel dasturida jadvaldagi satr tartib raqamiga (satr nomiga) sichqoncha ko’rsatkichi bilan bosilsa nima sodir bo’ladi?",
+        options: {
+          a: "Satr to’liq belgilanadi",
+          b: "Satr faollashadi",
+          c: "Kursor tanlangan satrga urnatiladi",
+          d: "Satrning ekranda ko’ringan qismi belgilanadi"
+        },
+        correctAnswer: "a"
+      }
+    ,{
       question: "Kompyuter virusi bu:",
       options: {
         a: "O’lchami katta bo’lmagan maxsus yozilgan dastur",
