@@ -1470,11 +1470,866 @@ const quizData= [
         d: "Ishlab chiqarish jarayonida insonlaming umumiy munosabatlarini ifodalovchi vositlar to‘plami"
       },
       correctAnswer: "a"
-    }
+    },
+    {
+        question: "Agar siz joriy hujjatni shu nom bilan ikkinchi marta saqlamoqchi bolsangiz, unda qanday amalni bajarasiz:",
+        options: {
+          a: "Сохранить",
+          b: "Сохранить как",
+          c: "Открыть",
+          d: "Отключить"
+        },
+        correctAnswer: "b"
+      },
+      {
+        question: "Qaysi amallar buferga kiritiladi:",
+        options: {
+          a: "вырезать, копировать",
+          b: "вырезать",
+          c: "копировать",
+          d: "вставить"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Word: Menyu quyidagi qismlardan iborat:",
+        options: {
+          a: "Файл, правка, вид, вставка",
+          b: "Файл, таблица, формула",
+          c: "Файл, правка, редактирование, вид",
+          d: "Файл, вид, данные, таблица"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Word: Ekranda klaviaturada mavjud bolmagan belgilar royxati xosil bolish uchun qaysi bandiga murojat etiladi:",
+        options: {
+          a: "Символ",
+          b: "Файл",
+          c: "Автотекст",
+          d: "Примечание"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Abzatslarni kop bosqichli markerlash usulini tanlab olishimiz mumkin bandini tanlang:",
+        options: {
+          a: "Список",
+          b: "Символ",
+          c: "Абзац",
+          d: "Рисунок"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Abzatslarning bosh xarfini aloxida ko‟rsatish uchun qaysi bandiga murojat etiladi:",
+        options: {
+          a: "Буквица",
+          b: "Список",
+          c: "Символ",
+          d: "Формат"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: ".Hujjat fonini tanlab olingan rang bilan toldirish uchun qaysi bandiga murojat etiladi:",
+        options: {
+          a: "Фон",
+          b: "Список",
+          c: "Символ",
+          d: "Формат"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Matni taxrir qilish uchun Menyuning qaysi bo‟limida amalga oshiriladi:",
+        options: {
+          a: "Сервис",
+          b: "Файл",
+          c: "Вид",
+          d: "Формат"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Statistika bandi nimani aniqlaydi:",
+        options: {
+          a: "hujjatning xajmi, belgilar va satrlar soni",
+          b: "Foydalangan suzlar",
+          c: "Ozgarishlarni",
+          d: "tilni"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Sahifada standart shakl va chegaralash belgilarini hosil qilish uchun qaysi tugma yordamida bajariladi:",
+        options: {
+          a: "Автофигуры",
+          b: "Действия",
+          c: "Надпис",
+          d: "Порядок"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Qaysi bandida tasvirlarni izoxlashda qulaylik tugdiruvchi elementlar jamlangan:",
+        options: {
+          a: "Выноски",
+          b: "основные фигуры",
+          c: "Звезды и ленты",
+          d: "Блок-схема"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Qaysi uskunalar panelida belgilangan tugmachalar joylashgan:",
+        options: {
+          a: "Форматирование",
+          b: "Рисование",
+          c: "Стандартная",
+          d: "Таблицы границы"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Microsoft Word dasturi yordamida yaratiladigan hujjatlar qanday nomlanadi:",
+        options: {
+          a: "Документ",
+          b: "Презентация",
+          c: "Книга",
+          d: "Лист"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Microsoft Word dasturiga yuklangan hujjatni yopish tartibi to’g’ri keltirilgan javobni ko’rsating:",
+        options: {
+          a: "«Файл\Закрыть» menyu amalini bajarish",
+          b: "«Файл\Выход» menyu amalini bajarish",
+          c: "« Закрыть » tugmasini bosish",
+          d: "«Файл\Завершить» menyu amalini bajarish"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Microsoft Word dasturi ma’lumotnomasini (Sправка) chaqirish qaysi tugma orqali amalga oshiriladi:",
+        options: {
+          a: "F1",
+          b: "F2",
+          c: "F8",
+          d: "F12"
+        },
+        correctAnswer: "a"
+      },
+      {
+        question: "Microsoft Word dasturida sichqoncha yordamida gapni (nuqtagacha bo’lgan matn) tezkor belgilash qanday amalga oshiriladi:",
+        options: {
+          a: "CTRL tugmasini bosgan holda ixtiyoriy gapni sichqoncha tugmasi bilan bosish orqali",
+          b: "Kursorni kerakli gapga o’rnatish va “Правка\Выделить все” menyu amalini bajarish bilan",
+          c: "Kursorni kerakli gapga o’r    natish va “Ctrl-A” tugmalar birikmasini bosish bilan",
+                                                  d: "Kursorni kerakli gapga o’rnatish va kontekst menyusidan “Выделить” amalini bajarish bilan"
+                                                },
+                                                correctAnswer: "a"
+                                              },
+                                              {
+                                                question: "Chop etilmaydigan belgilar ekranda nimani tasvirlaydi:",
+                                                options: {
+                                                  a: "Xizmat belgilarini",
+                                                  b: "Sahifa parametrlarini",
+                                                  c: "qoldirib ketilgan belgilarni",
+                                                  d: "Maxsus belgilarni"
+                                                },
+                                                correctAnswer: "a"
+                                              },
+                                              {
+                                                question: "Word da <abzaц>ni tugatish qaysi klavishani bosish bilan yakunlanadi:",
+                                                options: {
+                                                  a: "Enter",
+                                                  b: "Esc",
+                                                  c: "Shift",
+                                                  d: "Backspace"
+                                                },
+                                                correctAnswer: "a"
+                                              },
+                                              {
+                                                question: "Word asosiy ob’yekti qanday kengaytirgichli faylda saklanadi:",
+                                                options: {
+                                                  a: "DOC",
+                                                  b: "BMP",
+                                                  c: "XLS",
+                                                  d: "PPT"
+                                                },
+                                                correctAnswer: "a"
+                                              },
+                                              {
+                                                question: "Word da varakning parametrini o`zgartirish qanday bajariladi: -1. Parametri stranitsi 2. Format 3. Parametri 4. Word 5. Файл",
+                                                options: {
+                                                  a: "4,5,1",
+                                                  b: "3,1,2",
+                                                  c: "1,2,4",
+                                                  d: "3,4,2"
+                                                },
+                                                correctAnswer: "a"
+                                              },
+                                              {
+                                                question: "Word hujjatiga Mc.Office kolleksiyasidan rasmlar urnatish uchun buyruqlar ketma-ketligini toping 1. Kolleksii 2.M.Office 3.Vstavka 4.Kartinki 5.Word 6.Risunok",
+                                                options: {
+                                                  a: "5,3,6,4,2,1",
+                                                  b: "3,1,2,4,5,6",
+                                                  c: "1,2,4,6,3,5",
+                                                  d: "3,4,2,1,6,5"
+                                                },
+                                                correctAnswer: "a"
+                                              },
+                                              {
+                                                question: "Word: \"Правка\" menyusiga kiradigan buyruqlarni ko’rsating:",
+                                                options: {
+                                                  a: "bufer obmena",
+                                                  b: "Chernovik",
+                                                  c: "Разрыв",
+                                                  d: "Shrift"
+                                                },
+                                                correctAnswer: "a"
+                                              },
+                                              {
+                                                question: "Excel dasturi nima uchun mo’ljallangan:",
+                                                options: {
+                                                  a: "jadvalli ma’lumotlarni qayta ishlaydigan dastur",
+                                                  b: "foto tasvirlarni qayta ishlaydigan dastur",
+                                                  c: "foto tasvirlarni qayta ishlaydigan dastur",
+                                                  d: "matnli ma’lumotlarni qayta ishlaydigan dastur"
+                                                },
+                                                correctAnswer: "a"
+                                              },
+                                              {
+                                                question: "Quyidagilarning qaysi biri Elektron jadval protsessori:",
+                                                options: {
+                                                  a: "Excel",
+                                                  b: "FoxPro",
+                                                  c: "Basic",
+                                                  d: "Access"
+                                                },
+                                                correctAnswer: "a"
+                                              },
+                                              {
+                                                question: "Microsoft Excel dasturida ustunlar qanday nomlangan:",
+                                                options: {
+                                                  a: "Faqat lotin xarflari bilan",
+                                                  b: "faqat kirill xarflari bilan",
+                                                  c: "arab xarflari bilan",
+                                                  d: "lotin xarflari va Rim raqamlari bilan"
+                                                },
+                                                correctAnswer: "a"
+                                              },
+                                              {
+                                                  question: "Ixtiyoriy turdagi kompyuter tarmoqlarining vazifasini aniqlang.",
+                                                  options: {
+                                                    a: "Umumiy resurslarga murojat qilish va ishlash",
+                                                    b: "Faqat maxsus resurslarga murojaat qilish va ishlatish",
+                                                    c: "Elektron pochtadan unumli foydalanish",
+                                                    d: "Elektron pochta ishini tashkil qilish"
+                                                  },
+                                                  correctAnswer: "a"
+                                                },
+                                                {
+                                                  question: "Kompyuter tarmoqlaridagi resurslar turlari quyidagicha:",
+                                                  options: {
+                                                    a: "Apparatli, programmaviy va information",
+                                                    b: "Apparatli va programmaviy",
+                                                    c: "Apparatli, programmaviy, information va dasturiy",
+                                                    d: "Apparatli, electron, fizik va information"
+                                                  },
+                                                  correctAnswer: "a"
+                                                },
+                                                {
+                                                  question: "Axborot resursi ta’rifini bering.",
+                                                  options: {
+                                                    a: "Axborot resursi deb uzoqda joylashgan kompyuterlarda saqlanadigan ma’lumotlarga aytiladi",
+                                                    b: "Axborot resursi deb shaxsiy kompyuterda joylashgan dasturlar majmuiga aytiladi",
+                                                    c: "Axborot resursi deb uzoqda joylashgan kompyuterlarga saqlanadigan apparatura qurilmalarga aytiladi",
+                                                    d: "Axborot resursi deb uzoqda joylashgan kompyuterlarga saqlanadigan dasturiy ta’minotga aytiladi"
+                                                  },
+                                                  correctAnswer: "a"
+                                                },
+                                                {
+                                                  question: "Internet nima?",
+                                                  options: {
+                                                    a: "Xalqaro (butun dunyo) tarmogi",
+                                                    b: "Yevropa va Osiyo orasidagi tarmoq",
+                                                    c: "AQSH va Yevropa orasida tashkil qilingan tarmoq",
+                                                    d: "Kompyuterlarning lokal tarmogi"
+                                                  },
+                                                  correctAnswer: "a"
+                                                },
+                                                {
+                                                  question: "Internet kimga, qaysi tashkilotga qarashli?",
+                                                  options: {
+                                                    a: "Internet aniq bir shaxs yoki tashkilotga qarashli emas",
+                                                    b: "Internet Apple firmasiga tegishli",
+                                                    c: "Internet milliarder Bill Geyts ga qarashli",
+                                                    d: "Internet Microsoft firmasiga qarashli"
+                                                  },
+                                                  correctAnswer: "a"
+                                                },
+                                                {
+                                                  question: "Internetning negizida nima yotadi?",
+                                                  options: {
+                                                    a: "Super kompyuterlarning ozaro tezkor aloqa kanallari yordamida boglangan tizimi yotadi",
+                                                    b: "Super kompyuterlarning katta toplami yotadi",
+                                                    c: "Shaxsiy kompyuterlarning aloqa kanallari yordamida boglangan tizimi yotadi",
+                                                    d: "Shaxsiy kompyuterlarning toplami yotadi"
+                                                  },
+                                                  correctAnswer: "a"
+                                                },
+                                                {
+                                                  question: "Internet muhitida ma’lumotlarning asosiy qismi qanday shaklda saqlanadi?",
+                                                  options: {
+                                                    a: "Gepermatn shaklda saqlanadi",
+                                                    b: "Butun va haqiqiy turdagi sonlar toplami shaklida saqlanadi",
+                                                    c: "Massivlar shaklida saqlanadi",
+                                                    d: "Butun, haqiqiy, massiv va fayl tipidagi ma’lumotlar majmui shaklida saqlanadi"
+                                                  },
+                                                  correctAnswer: "a"
+                                                },
+                                                {
+                                                  question: "Tarmoqqa kiritilgan kompyuterlar …",
+                                                  options: {
+                                                    a: "Tarmoq tugunlari deyiladi",
+                                                    b: "Tarmoqning programma taminoti deyiladi",
+                                                    c: "Tarmoqning axborot resurslari deyiladi",
+                                                    d: "Tarmoqning apparat va programma ta’minoti deyiladi"
+                                                  },
+                                                  correctAnswer: "a"
+                                                },
+                                                {
+                                                  question: "LAN va WAN nima?",
+                                                  options: {
+                                                    a: "LAN – bu lokal va WAN – global tarmoqlardir",
+                                                    b: "LAN – bu global va WAN – lokal tarmoqlardir",
+                                                    c: "LAN – apparatura va WAN – programma ta’minotidir",
+                                                    d: "LAN – tarmoqning programma va WAN – tarmoqning apparatura ta’minotidir"
+                                                  },
+                                                  correctAnswer: "a"
+                                                },
+                                                {
+                                                  question: "Klient server tipidagi tarmoqqa …",
+                                                  options: {
+                                                    a: "Server – tarmoq ishini boshqaruvchi, klient – qolgan kompyuterlar",
+                                                    b: "Klient – tarmoq ishini boshqaruvchi, server – qolgan kompyuterlar",
+                                                    c: "Faqat klient kompyuterlar ishlatiladi",
+                                                    d: "Faqat server kompyuterlar ishlatiladi"
+                                                  },
+                                                  correctAnswer: "a"
+                                                },
+                                                {
+                                                  question: "Tarmoq topologiyasi nima?",
+                                                  options: {
+                                                    a: "Tarmoqdagi kompyuterlarning joylashishi va boglanishi sxemasi",
+                                                    b: "Tarmoqdagi kompyuterlarning joylashishi",
+                                                    c: "Tarmoqdagi kompyuterlarning toplami",
+                                                    d: "Shaxsiy kompyuterlarning ozaro boglanishi"
+                                                  },
+                                                  correctAnswer: "a"
+                                                },
+                                                {
+                                                  question: "Asosiy tarmoq topologiyalari:",
+                                                  options: {
+                                                    a: "Yulduz, halqa va shina",
+                                                    b: "Shina, yulduz va ketma-ket",
+                                                    c:"Halqa, aylana va shina",
+                                                            d: "Yulduz, halqa va aylana"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "Xab (hub) nima?",
+                                                          options: {
+                                                            a: "Yulduz topologiyali tarmoqqa markaziy qurilma (kompyuter)",
+                                                            b: "Shina topologiyali tarmoqqa yordamchi kompyuter",
+                                                            c: "Yulduz topologiyali tarmoqda yordamchi qurilma",
+                                                            d: "Shina topologiyali tarmoqda markaziy kompyuter"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "Shlyuz vazifasini aniqlang.",
+                                                          options: {
+                                                            a: "Har xil protokolli lokal tarmoqlarni boglash",
+                                                            b: "Bir xil protokolli lokal tarmoqlarni boglash",
+                                                            c: "Global tarmoqlarni ishini tekshirish",
+                                                            d: "Lokal tarmoqlarni ishini tekshirish"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "Agar tarmoqda kabel tizimi ishlatilmasa …",
+                                                          options: {
+                                                            a: "Biz simsiz tarmoqni hosil qilamiz",
+                                                            b: "Tarmoq ishlamaydi",
+                                                            c: "Kompyuterlar ishi buziladi",
+                                                            d: "Tarmoq tashkil qilib bolmaydi"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "Bod (bit/sek) nima uchun ishlatiladi?",
+                                                          options: {
+                                                            a: "Tarmoqda ma’lumotlarni uzatish tezligini aniqlash uchun",
+                                                            b: "Kompyuter tezkorligini aniqlash uchun",
+                                                            c: "Xotira hajmini aniqlash uchun",
+                                                            d: "Takt chastotasini olchash uchun"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "WLAN nima?",
+                                                          options: {
+                                                            a: "Simsiz lokal tarmoq turi",
+                                                            b: "Optotolali lokal tarmoq turi",
+                                                            c: "Global tarmoqning turi",
+                                                            d: "Lokal tarmoqlarning birlashmasi"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "Kabelning qaysi turi yoruglik oqimini uzatishga moljallangandir?",
+                                                          options: {
+                                                            a: "Optotolali kabellar",
+                                                            b: "Koaksial kabellar",
+                                                            c: "Koaksial va optotolali kabellar",
+                                                            d: "Kabelli kanallar va optotolali kabellar"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "Modemning vazifasi…",
+                                                          options: {
+                                                            a: "Modulyatsiya va demodulyatsiya qilishdir",
+                                                            b: "Kompyuter tezkorligini oshirishdir",
+                                                            c: "Xotira hajmini kengaytirishdir",
+                                                            d: "Programmalarni vaqtinchalik saqlashdir"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "Modemning ma’lumotlarni uzatish tezligi …",
+                                                          options: {
+                                                            a: "Bit/sek bilan olchanadi",
+                                                            b: "Megabayt va gigabayt bilan olchanadi",
+                                                            c: "Operatsiya/sekund bilan olchanadi",
+                                                            d: "Sekund/bit bilan olchanadi"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "Tarmoq operatsion sistemasi vazifalarini aniqlang.",
+                                                          options: {
+                                                            a: "Tarmoqda ma’lumotlarni uzatish, saqlash va qayta ishlash",
+                                                            b: "Tarmoqda foydalanuvchi bilan muloqot qilish",
+                                                            c: "Tarmoqda foydalanuvchilar kompyuterlarining protsessor vaqtini taqsimlash",
+                                                            d: "Tarmoqda foydalanuvchilar kompyuterlarining operativ xotirasini taqsimlash"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "Tarmoq operatsion sistemasining bosh vazifasi …",
+                                                          options: {
+                                                            a: "Tarmoq resurslarini taqsimlash va boshqarish",
+                                                            b: "Elektron pochta xizmatini boshqarish",
+                                                            c: "Telekonferensiyani tashkil qilish",
+                                                            d: "Domenlarni nomlash va chat tashkil qilish"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "Trafik nima?",
+                                                          options: {
+                                                            a: "Trafik deb kanaldagi ma’lumotlarning toliqlik oqimiga aytiladi",
+                                                            b: "Trafik deb xotiradagi ma’lumotlarning hajmiga aytiladi",
+                                                            c: "Trafik – bu shinaning ma’lumotlarni uzatish oqimiga aytiladi",
+                                                            d: "Trafik – bu modemning tezkorligi olchovi"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "IP – adres – bu …",
+                                                          options: {
+                                                            a: "32 bitli son bolib 4 ta qismga bolinadi",
+                                                            b: "24 bitli son bolib 3 ta qismga bolinadi",
+                                                            c: "16 bitli son bolib 2 ta qismga bolinadi",
+                                                            d: "1 baytli son bolib 2 ta qismga bolinadi"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+                                                        {
+                                                          question: "IP – adreslarning soni …",
+                                                          options: {
+                                                            a: "Chegaralangan",
+                                                            b: "Chegaralanmagan",
+                                                            c: "Chegaralanmagan, ammo aniqlash mumkin",
+                                                            d: "Chegaralangan, ammo ixtiyoriy foydalanuvchi kengaytirishi mumkin"
+                                                          },
+                                                          correctAnswer: "a"
+                                                        },
+  {
+    question: "Iyerarxik ma’lumotlar bazasi misoli sifatida:",
+    options: {
+      a: "diskda saqlanadigan fayllar katalogi",
+      b: "guruh jurnali sahifasi",
+      c: "poyezdlar qatnovi jadvali",
+      d: "elektron jadval"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Tarmoq strukturali informatsion modelga quyidagi kiradi:",
+    options: {
+      a: "kompyuter Internet tarmog‘i",
+      b: "Mendeleyev jadvali",
+      c: "kompyuter fayl tizimi",
+      d: "oilaning genealogik daraxti"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Iyerarxik ma’lumotlar bazasida ma’lumotlar majmui va ular orasidagi bog‘lanish quyidagicha tasvirlanadi:",
+    options: {
+      a: "daraxtsimon struktura",
+      b: "tarmoq sxemasi",
+      c: "jadval",
+      d: "jadvallar majmuasi"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Amaliyotda keng ishlatiladigan model:",
+    options: {
+      a: "relyatsion model",
+      b: "taqsimlangan ma’lumotlar bazasi",
+      c: "iyerarxik ma’lumotlar bazasi",
+      d: "tarmoq ma’lumotlar bazasi"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Relyatsion ma’lumotlar bazasi yozuvida quyidagilar bo‘lishi mumkin:",
+    options: {
+      a: "har xil turdagi ma’lumotlar",
+      b: "faqat bir turli ma’lumot",
+      c: "faqat matnli axborot",
+      d: "mutlaq sonli axborot"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "0,7–3>2 ifoda qanaqa ma’lumotlar turiga tegishli:",
+    options: {
+      a: "mantiqiy",
+      b: "sonli",
+      c: "satrli",
+      d: "butun"
+    },
+    correctAnswer: "b"
+  },
+  {
+    question: "Ma’lumotlar bazasini boshqarish tizimi bu:",
+    options: {
+      a: "ma’lumotlar bazasini yaratish va uni boshqarish uchun xizmat qiladi",
+      b: "kompyuterning hamma apparat vositalarini ishini ta’minlovchi dasturlar majmui",
+      c: "turli hujjatlar va matnlarni qayta ishlash uchun amaliy dastur",
+      d: "fayllar bilan yanada qulay ishlash imkonini beruvchi operatsion tizim qobig‘i"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Quyidagi javoblarning qaysi birida relyatsion ma’lumotlar bazasidagi axborotlarni tashkilashtirish shakli to’g‘ri keltirilgan?",
+    options: {
+      a: "Jadval",
+      b: "Istalgan fayl",
+      c: "Iyerarxik struktura",
+      d: "Daraxt"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Ma’lumotlar bazasidagi nomlangan eng kichik element bu",
+    options: {
+      a: "Maydonlar",
+      b: "Katak",
+      c: "Yozuv",
+      d: "Shablon"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Ma’lumotlar bazasi struktura o‘zgaradi, agarda",
+    options: {
+      a: "Maydon qo‘shilsa/uchirilsa",
+      b: "Yozuvlar tahrirlansa",
+      c: "Yozuvlar joylari almashtirilsa",
+      d: "Yozuv qo‘shilsa/uchirilsa"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Quyidagi tasdiqlardan qaysi biri noto‘g‘ri?",
+    options: {
+      a: "Ma’lumotlar bazasidagi maydon tarkibida bir necha yozuvlar bor",
+      b: "Ma’lumotlar bazasi qat’iy strukturaga ega",
+      c: "Ma’lumotlar bazasining har bir maydoni o‘z uzunligiga ega",
+      d: "Ma’lumotlar bazasidagi yozuv tarkibida bir necha maydonlar bor"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "SQL bu",
+    options: {
+      a: "So‘rovlar tilidir",
+      b: "Yuqori darajadagi dasturlash tilidir",
+      c: "Quyi darajadagi dasturlash tilidir",
+      d: "Ma’lumotlar bazalarini belgilash tilidir"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Ma’lumotlarning o‘ziga xos xususiyatlarini e’tiborga olgan holda uning maydonlarini ifodalash – bu",
+    options: {
+      a: "Jadval tuzish",
+      b: "Ma’lumotlar bazasi yaratish",
+      c: "So‘rov tuzish",
+      d: "Hisobot yaratish"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "Belgilari soni 255 dan oshmaydigan maydon nomini ko‘rsating",
+    options: {
+      a: "Oddiy matn maydoni",
+      b: "Sonli maydon",
+      c: "Sana va vaqt maydoni",
+      d: "Hisoblagich maydon"
+    },
+    correctAnswer: "a"
+  },
+  {
+    question: "So‘rovlar nimaga mo‘ljallangan?",
+    options: {
+      a: "Ma’lumotlar bazasidan axborotlarni tanlash va qayta ishlash uchun",
+                                                       b: "Murakkab dasturiy harakatlarni bajarish uchun",
+                                                       c: "Ma’lumotlarni kiritish uchun",
+                                                       d: "Ma’lumotlar bazasini saqlash uchun"
+                                                     },
+                                                     correctAnswer: "a"
+                                                   },
+                                                   {
+                                                     question: "Ma’lumotlar bazasi qaysi obyektlarsiz mavjud emas?",
+                                                     options: {
+                                                       a: "Jadvallarsiz",
+                                                       b: "Formalarsiz",
+                                                       c: "Hisobotlarsiz",
+                                                       d: "Modullarsiz"
+                                                     },
+                                                     correctAnswer: "a"
+                                                   },
+                                                   {
+                                                     question: "Ma’lumotlar bazasi qaysi jadval elementlarida saqlanadi?",
+                                                     options: {
+                                                       a: "Maydonlarda",
+                                                       b: "Ustunlarda",
+                                                       c: "Satrlarda",
+                                                       d: "Yozuvlarda"
+                                                     },
+                                                     correctAnswer: "a"
+                                                   },
+                                                   {
+                                                     question: "Yozuvsiz jadvalda qandaydir axborot saqlanishi mumkinmi?",
+                                                     options: {
+                                                       a: "Yozuvsiz jadval mavjud bo‘lmaydi",
+                                                       b: "Bo‘sh jadval ma’lumotlar bazasi strukturasi haqida axborotga ega",
+                                                       c: "Bo‘sh jadval kelgusi yozuvlar haqida ma’lumotni saqlaydi",
+                                                       d: "Bo‘sh jadval hech qanday axborot saqlamaydi"
+                                                     },
+                                                     correctAnswer: "a"
+                                                   },
+                                                   {
+                                                     question: "«Schetchik» turdagi maydonning xususiyati?",
+                                                     options: {
+                                                       a: "Avtomatik ko‘payish xususiyatiga ega",
+                                                       b: "Haqiqiy sonlarni kiritish uchun xizmat qiladi",
+                                                       c: "Cheklangan o‘lchovga ega",
+                                                       d: "Sonli ma’lumotlarni kiritish uchun xizmat qiladi"
+                                                     },
+                                                     correctAnswer: "a"
+                                                   },
+                                                   {
+                                                     question: "«Memo» turdagi maydonning xususiyati?",
+                                                     options: {
+                                                       a: "Matnli ma’lumotlarni katta hajmda saqlash uchun xizmat qiladi",
+                                                       b: "Cheklangan o‘lchovga ega",
+                                                       c: "Haqiqiy sonlarni kiritish uchun xizmat qiladi",
+                                                       d: "Avtomatik ko‘payish xususiyatiga ega"
+                                                     },
+                                                     correctAnswer: "a"
+                                                   },
+                                                   {
+                                                     question: "Makroslar nima uchun mo‘ljallangan?",
+                                                     options: {
+                                                       a: "Buyruqlar guruhi avtomatik bajarilishi uchun",
+                                                       b: "Ma’lumotlar bazasini tanlash va qayta ishlash uchun",
+                                                       c: "Ma’lumotlarni kiritish uchun",
+                                                       d: "Ma’lumotlar bazasini saqlash uchun"
+                                                     },
+                                                     correctAnswer: "a"
+                                                   },
+                                                   {
+                                                     question: "Quyida keltirilgan ma’lumotlar bazasi modellarining qaysi birida elementlararo gorizontal va vertikal aloqa bor?",
+                                                     options: {
+                                                       a: "Tarmoqli",
+                                                       b: "Relyatsion",
+                                                       c: "Iyerarxik",
+                                                       d: "Obyektga yo‘naltirilgan"
+                                                     },
+                                                     correctAnswer: "a"
+                                                   },
+                                                   {
+                                                     question: "Qanday so‘rovni tuzish mumkin emas?",
+                                                     options: {
+                                                       a: "Parallel",
+                                                       b: "Oddiy",
+                                                       c: "Kesishgan",
+                                                       d: "Jadval yaratuvchi"
+                                                     },
+                                                     correctAnswer: "a"
+                                                   },
+                                                   {
+                                                     question: "Ma’lumotlarni kiritish uchun kerakli maydonga ega bo‘lgan elektron blank nima deb ataladi?",
+                                                     options: {
+                                                       a: "Forma",
+                                                       b: "Makros",
+                                                       c: "So‘rov",
+                                                       d: "Jadval"
+                                                     },
+                                                     correctAnswer: "a"
+                                                   },
+                                                   {
+                                                     question: "Kompyuter tarmogi nima?",
+                                                     options: {
+                                                       a: "Kompyuter tarmogi deb ikkita va undan kop kompyuterlarning fizik boglanishiga aytiladi.",
+                                                       b: "Kompyuter tarmogi deb faqat uchta kompyutrlarning boglanishiga aytiladi.",
+                                                       c: "Kompyuter tarmogi deb faqat ikkita kompyuterning boglanishiga aytiladi.",
+                                                       d: "Kompyuter tarmogi deb ikkita va undan kop kompyuterlarning majmuiga aytiladi."
+                                                     },
+                                                     correctAnswer: "d"
+                                                   },  {
+                                                         question: "Excel: A1 yacheykaga 15, B1 yacheykaga 3, C1 yacheykaga 18, D1 yacheykaga 4, E1 yacheykaga =(A1 - B1 - C1) / D1 formula kiritilsa uning qiymatini toping.",
+                                                         options: {
+                                                           a: "-9",
+                                                           b: "-18",
+                                                           c: "-4",
+                                                           d: "-2"
+                                                         },
+                                                         correctAnswer: "a"
+                                                       },
+                                                       {
+                                                         question: "Excel: A1 yacheykaga 15, B1 yacheykaga 3, C1 yacheykaga 15, D1 yacheykaga 4, E1 yacheykaga =(A1 - B1 - C1) / D1 formula kiritilsa uning qiymatini toping.",
+                                                         options: {
+                                                           a: "15",
+                                                           b: "18",
+                                                           c: "24",
+                                                           d: "33"
+                                                         },
+                                                         correctAnswer: "a"
+                                                       },
+                                                       {
+                                                         question: "Jadval ma’lumotlarini o’sish yoki kamayish tartibida saralash qaysi menyu yordamida amalga oshiriladi?",
+                                                         options: {
+                                                           a: "Данные",
+                                                           b: "Вид",
+                                                           c: "Сервис",
+                                                           d: "Формат"
+                                                         },
+                                                         correctAnswer: "a"
+                                                       },
+                                                       {
+                                                         question: "Ma’lumotlarni qayta ishlash paketi qaysi menyu yordamida o‘rnatiladi?",
+                                                         options: {
+                                                           a: "Сервис",
+                                                           b: "Данные",
+                                                           c: "Формат",
+                                                           d: "Вставка"
+                                                         },
+                                                         correctAnswer: "a"
+                                                       },
+                                                       {
+                                                         question: "Elektron jadvalda A1:E1 yacheykalar ajratilgan. Ajratilgan yacheykalar soni nechta?",
+                                                         options: {
+                                                           a: "5",
+                                                           b: "7",
+                                                           c: "6",
+                                                           d: "4"
+                                                         },
+                                                         correctAnswer: "a"
+                                                       },
+                                                       {
+                                                         question: "Elektron jadvalda A1:E3 yacheykalar ajratilgan. Ajratilgan yacheykalar soni nechta?",
+                                                         options: {
+                                                           a: "15",
+                                                           b: "20",
+                                                           c: "9",
+                                                           d: "4"
+                                                         },
+                                                         correctAnswer: "a"
+                                                       },
+                                                       {
+                                                         question: "Jadvaldan kerakli ma’lumotni qidiruv darchasini ochuvchi tugmalar kombinatsiyasi:",
+                                                         options: {
+                                                           a: "Ctrl-F",
+                                                           b: "Ctrl-H",
+                                                           c: "Ctrl-G",
+                                                           d: "Ctrl-P"
+                                                         },
+                                                         correctAnswer: "a"
+                                                       },
+                                                       {
+                                                         question: "Jadvaldan kerakli ma’lumotni boshqasiga almashtirish darchasini ochuvchi tugmalar kombinatsiyasi:",
+                                                         options: {
+                                                           a: "Ctrl-H",
+                                                           b: "Ctrl-F",
+                                                           c: "Ctrl-G",
+                                                           d: "Ctrl-P"
+                                                         },
+                                                         correctAnswer: "a"
+                                                       },
+                                                       {
+                                                         question: "Uskunalar paneliga qo‘shimcha tugmalarni chiqarish tartibi:",
+                                                         options: {
+                                                           a: "Vid→Panel instrumentov→nastroyka→komandi",
+                                                           b: "Vid→Panel instrumentov→nastroyka→parametri",
+                                                           c: "Vstavka→Panel instrumentov→nastroyka→komandi",
+                                                           d: "Vstavka→Panel instrumentov→nastroyka→parametri"
+                                                         },
+                                                         correctAnswer: "a"
+                                                       },
+                                                       {
+                                                         question: "Hujjatni ximoyalash qaysi menyu orqali o’rnatiladi:",
+                                                         options: {
+                                                           a: "Сервис",
+                                                           b: "Вставка",
+                                                           c: "Правка",
+                                                           d: "Файл"
+                                                         },
+                                                         correctAnswer: "d"
+                                                       }
   
   
 ];
-console.log(questions.length);
+const questions = [
+
+];
+
+console.log(questions);
+
+
 
 
 
